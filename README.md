@@ -8,8 +8,6 @@ hadoop fs -rm -r -f o1         //delete from hdfs
 
 hadoop jar test1.jar testHadoop input o1  //operating mapreduce
 
-to browse hdfs http://localhost:50070/ open in browser
-
 project folder contains the output of mapreduce
 
 jar files required to operate map reduce :-
